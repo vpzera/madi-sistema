@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.2eececec.css","mappings":"AAAA,KAA0C,kBAAmB,CAAtD,iBAAkB,CAAE,YAAoC,CAAE,aAAgB,aAAa,CAAE,aAAgB","sources":["App.css"],"sourcesContent":["body { font-family: Arial; padding: 20px; background: #f4f4f4; } input, button { display:block; margin: 10px 0; }"],"names":[],"sourceRoot":""}
