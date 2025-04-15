@@ -1,17 +1,18 @@
 
-Madi Sistema - Versão Final Completa
+MADI - SISTEMA FINAL COMPLETO
 
 Inclui:
-✔️ Login com Firebase Auth
-✔️ Redirecionamento por perfil (admin, calculista, cliente)
-✔️ Cadastro de processos com Firestore
+✔️ Login real com Firebase Auth
+✔️ Painel por perfil (admin, calculista, cliente)
+✔️ Cadastro de processos integrado ao Firestore
 ✔️ Upload de arquivos com Firebase Storage
-✔️ Gráficos com Chart.js (tipo, status, mês)
+✔️ Gráficos reais com Chart.js
 ✔️ Exportações reais: PDF, Excel, PNG
-✔️ Interface moderna com splash screen, favicon e responsividade
-✔️ Integração com EmailJS para alertas automáticos
-✔️ Pronto para deploy na Vercel ou GitHub
+✔️ EmailJS para envio automático
+✔️ Interface moderna com splash screen e logotipo
+✔️ Layout responsivo
+✔️ Pronto para subir no GitHub e publicar no Vercel
 
-Descompacte e use com:
-- npm install
-- npm run build
+Comandos:
+npm install
+npm run build
