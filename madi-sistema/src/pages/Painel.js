@@ -1,1 +1,0 @@
-export default () => <h1>Painel de Processos</h1>;
