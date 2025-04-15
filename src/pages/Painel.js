@@ -1,0 +1,1 @@
+export default () => <h1>📊 Painel com exportações</h1>;
