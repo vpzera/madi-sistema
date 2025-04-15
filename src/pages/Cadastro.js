@@ -1,1 +1,1 @@
-export default () => <h1>📂 Cadastro com upload</h1>;
+export default () => <h1>📂 Cadastro com Firebase Storage</h1>;

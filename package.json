@@ -1,6 +1,6 @@
 
 {
-  "name": "madi-sistema-vercel-final",
+  "name": "madi-sistema-final-integrado",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -12,9 +12,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "build": "react-scripts build"
   },
   "engines": {
     "node": "18.x"

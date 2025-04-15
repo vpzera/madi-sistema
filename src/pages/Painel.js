@@ -1,1 +1,1 @@
-export default () => <h1>📊 Painel com exportações</h1>;
+export default () => <h1>📊 Painel com Firestore e Upload</h1>;
