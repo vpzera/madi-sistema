@@ -1,1 +1,0 @@
-export default () => <h1>🔐 Login - Firebase</h1>;

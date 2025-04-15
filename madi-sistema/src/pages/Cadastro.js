@@ -1,1 +1,0 @@
-export default () => <h1>📂 Cadastro com upload</h1>;
